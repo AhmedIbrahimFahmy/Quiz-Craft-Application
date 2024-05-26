@@ -30,7 +30,7 @@ Install & Engoy it
 
 ## Contacts
 For any inquiries or support, please contact us at:
-- **Developer Email:** ahmedibrahim2252@gmail.com
 - **App Email:** quizcraft.info@gmail.com
+- **Email:** ahmedibrahim2252@gmail.com
 - **Facebook:** [Ahmed Ibrahim](https://www.facebook.com/profile.php?id=100015635143894)
 - **LinkedIn:** [Ahmed (Fahmy) Ibrahim](https://www.linkedin.com/in/ahmed-ibrahim-79b16320b/)
