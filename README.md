@@ -1,1 +1,1 @@
-# Quiz-Craft-Application
+# Quiz Craft Application
