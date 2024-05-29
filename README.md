@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/platform-Android-blue.svg)]()
 
 ## Description
-Quiz Craft is a versatile Android application designed to help you manage quizzes with ease. Whether you're a teacher, a team leader, or just someone who loves creating and sharing quizzes, Quiz Craft has all the features you need.
+Quiz Craft is a user-friendly Android app that makes managing quizzes easy. Whether you're a teacher, a team leader, or someone who loves making quizzes, Quiz Craft has everything you need.
 
 ## Key Features
 
