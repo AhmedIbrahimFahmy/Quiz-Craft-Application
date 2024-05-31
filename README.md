@@ -23,6 +23,18 @@ Quiz Craft is a user-friendly Android app that makes managing quizzes easy. Whet
 
 - **Feedback:** Provide feedback easily with the built-in feature. Take a screenshot within the app, write your feedback, and send it directly to our support team via email.
 
+
+## Screenshots
+Below are some screenshots showcasing the features and interface of our application:
+
+![Alt text](screenshots/1.png)
+![Alt text](screenshots/2.png)
+![Alt text](screenshots/3.png)
+![Alt text](screenshots/4.png)
+![Alt text](screenshots/5.png)
+![Alt text](screenshots/6.png)
+![Alt text](screenshots/7.png)
+
 ## Installation
 Download the apk file **"Quiz Craft.apk"** from this repository to your **Android device**.
 
